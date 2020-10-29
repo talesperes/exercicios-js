@@ -7,6 +7,6 @@ Acesso aos exercícios: [DiegoPinho / entendendo-es6](https://github.com/DiegoPi
 Você pode utilizar um interpretador JavaScript online, ou então na sua própria maquina, utilizando o Node.js através do prompt de comando ou outra ferramenta de sua escolha.
 
 #### Usando o Node.js
-```node.js
+```
 node arquivo.js
 ```
